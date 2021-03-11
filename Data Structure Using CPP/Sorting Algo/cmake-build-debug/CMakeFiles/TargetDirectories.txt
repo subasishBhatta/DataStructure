@@ -1,0 +1,3 @@
+F:/COURSES/Data Structure and Algorithm/Data Structure Using CPP/Sorting Algo/cmake-build-debug/CMakeFiles/Sorting_Algo.dir
+F:/COURSES/Data Structure and Algorithm/Data Structure Using CPP/Sorting Algo/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/COURSES/Data Structure and Algorithm/Data Structure Using CPP/Sorting Algo/cmake-build-debug/CMakeFiles/rebuild_cache.dir

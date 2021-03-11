@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/COURSES/Data Structure and Algorithm/Data Structure Using CPP/Sorting Algo/03_insertion_sort.cpp
+iostream
+F:/COURSES/Data Structure and Algorithm/Data Structure Using CPP/Sorting Algo/iostream
+
