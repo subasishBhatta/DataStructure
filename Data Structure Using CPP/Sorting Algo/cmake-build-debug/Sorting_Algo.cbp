@@ -82,7 +82,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="F:/COURSES/Data Structure and Algorithm/Data Structure Using CPP/Sorting Algo/03_insertion_sort.cpp">
+		<Unit filename="F:/COURSES/Data Structure and Algorithm/Data Structure Using CPP/Sorting Algo/04_selection_sort.cpp">
 			<Option target="Sorting_Algo"/>
 		</Unit>
 		<Unit filename="F:/COURSES/Data Structure and Algorithm/Data Structure Using CPP/Sorting Algo/CMakeLists.txt">

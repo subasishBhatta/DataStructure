@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Sorting_Algo.dir/03_insertion_sort.cpp.obj"
+  "CMakeFiles/Sorting_Algo.dir/04_selection_sort.cpp.obj"
   "Sorting_Algo.exe"
   "Sorting_Algo.exe.manifest"
   "Sorting_Algo.pdb"

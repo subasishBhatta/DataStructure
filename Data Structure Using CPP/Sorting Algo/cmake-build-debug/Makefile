@@ -142,32 +142,32 @@ Sorting_Algo/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Sorting_Algo.dir\build.make CMakeFiles/Sorting_Algo.dir/build
 .PHONY : Sorting_Algo/fast
 
-03_insertion_sort.obj: 03_insertion_sort.cpp.obj
+04_selection_sort.obj: 04_selection_sort.cpp.obj
 
-.PHONY : 03_insertion_sort.obj
+.PHONY : 04_selection_sort.obj
 
 # target to build an object file
-03_insertion_sort.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Sorting_Algo.dir\build.make CMakeFiles/Sorting_Algo.dir/03_insertion_sort.cpp.obj
-.PHONY : 03_insertion_sort.cpp.obj
+04_selection_sort.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Sorting_Algo.dir\build.make CMakeFiles/Sorting_Algo.dir/04_selection_sort.cpp.obj
+.PHONY : 04_selection_sort.cpp.obj
 
-03_insertion_sort.i: 03_insertion_sort.cpp.i
+04_selection_sort.i: 04_selection_sort.cpp.i
 
-.PHONY : 03_insertion_sort.i
+.PHONY : 04_selection_sort.i
 
 # target to preprocess a source file
-03_insertion_sort.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Sorting_Algo.dir\build.make CMakeFiles/Sorting_Algo.dir/03_insertion_sort.cpp.i
-.PHONY : 03_insertion_sort.cpp.i
+04_selection_sort.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Sorting_Algo.dir\build.make CMakeFiles/Sorting_Algo.dir/04_selection_sort.cpp.i
+.PHONY : 04_selection_sort.cpp.i
 
-03_insertion_sort.s: 03_insertion_sort.cpp.s
+04_selection_sort.s: 04_selection_sort.cpp.s
 
-.PHONY : 03_insertion_sort.s
+.PHONY : 04_selection_sort.s
 
 # target to generate assembly for a file
-03_insertion_sort.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Sorting_Algo.dir\build.make CMakeFiles/Sorting_Algo.dir/03_insertion_sort.cpp.s
-.PHONY : 03_insertion_sort.cpp.s
+04_selection_sort.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Sorting_Algo.dir\build.make CMakeFiles/Sorting_Algo.dir/04_selection_sort.cpp.s
+.PHONY : 04_selection_sort.cpp.s
 
 # Help Target
 help:
@@ -178,9 +178,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... Sorting_Algo
-	@echo ... 03_insertion_sort.obj
-	@echo ... 03_insertion_sort.i
-	@echo ... 03_insertion_sort.s
+	@echo ... 04_selection_sort.obj
+	@echo ... 04_selection_sort.i
+	@echo ... 04_selection_sort.s
 .PHONY : help
 
 
