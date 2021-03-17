@@ -142,32 +142,32 @@ Sorting_Algo/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Sorting_Algo.dir\build.make CMakeFiles/Sorting_Algo.dir/build
 .PHONY : Sorting_Algo/fast
 
-04_selection_sort.obj: 04_selection_sort.cpp.obj
+06_merge_sort.obj: 06_merge_sort.cpp.obj
 
-.PHONY : 04_selection_sort.obj
+.PHONY : 06_merge_sort.obj
 
 # target to build an object file
-04_selection_sort.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Sorting_Algo.dir\build.make CMakeFiles/Sorting_Algo.dir/04_selection_sort.cpp.obj
-.PHONY : 04_selection_sort.cpp.obj
+06_merge_sort.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Sorting_Algo.dir\build.make CMakeFiles/Sorting_Algo.dir/06_merge_sort.cpp.obj
+.PHONY : 06_merge_sort.cpp.obj
 
-04_selection_sort.i: 04_selection_sort.cpp.i
+06_merge_sort.i: 06_merge_sort.cpp.i
 
-.PHONY : 04_selection_sort.i
+.PHONY : 06_merge_sort.i
 
 # target to preprocess a source file
-04_selection_sort.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Sorting_Algo.dir\build.make CMakeFiles/Sorting_Algo.dir/04_selection_sort.cpp.i
-.PHONY : 04_selection_sort.cpp.i
+06_merge_sort.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Sorting_Algo.dir\build.make CMakeFiles/Sorting_Algo.dir/06_merge_sort.cpp.i
+.PHONY : 06_merge_sort.cpp.i
 
-04_selection_sort.s: 04_selection_sort.cpp.s
+06_merge_sort.s: 06_merge_sort.cpp.s
 
-.PHONY : 04_selection_sort.s
+.PHONY : 06_merge_sort.s
 
 # target to generate assembly for a file
-04_selection_sort.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Sorting_Algo.dir\build.make CMakeFiles/Sorting_Algo.dir/04_selection_sort.cpp.s
-.PHONY : 04_selection_sort.cpp.s
+06_merge_sort.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Sorting_Algo.dir\build.make CMakeFiles/Sorting_Algo.dir/06_merge_sort.cpp.s
+.PHONY : 06_merge_sort.cpp.s
 
 # Help Target
 help:
@@ -178,9 +178,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... Sorting_Algo
-	@echo ... 04_selection_sort.obj
-	@echo ... 04_selection_sort.i
-	@echo ... 04_selection_sort.s
+	@echo ... 06_merge_sort.obj
+	@echo ... 06_merge_sort.i
+	@echo ... 06_merge_sort.s
 .PHONY : help
 
 

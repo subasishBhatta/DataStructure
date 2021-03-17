@@ -6,4 +6,4 @@ set(CMAKE_CXX_STANDARD 14)
 include_directories(.)
 
 add_executable(Sorting_Algo
-        04_selection_sort.cpp)
+        06_merge_sort.cpp)

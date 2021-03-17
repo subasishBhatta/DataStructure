@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "F:/COURSES/Data Structure and Algorithm/Data Structure Using CPP/Sorting Algo/04_selection_sort.cpp" "F:/COURSES/Data Structure and Algorithm/Data Structure Using CPP/Sorting Algo/cmake-build-debug/CMakeFiles/Sorting_Algo.dir/04_selection_sort.cpp.obj"
+  "F:/COURSES/Data Structure and Algorithm/Data Structure Using CPP/Sorting Algo/06_merge_sort.cpp" "F:/COURSES/Data Structure and Algorithm/Data Structure Using CPP/Sorting Algo/cmake-build-debug/CMakeFiles/Sorting_Algo.dir/06_merge_sort.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

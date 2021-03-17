@@ -76,28 +76,28 @@ include CMakeFiles/Sorting_Algo.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/Sorting_Algo.dir/flags.make
 
-CMakeFiles/Sorting_Algo.dir/04_selection_sort.cpp.obj: CMakeFiles/Sorting_Algo.dir/flags.make
-CMakeFiles/Sorting_Algo.dir/04_selection_sort.cpp.obj: CMakeFiles/Sorting_Algo.dir/includes_CXX.rsp
-CMakeFiles/Sorting_Algo.dir/04_selection_sort.cpp.obj: ../04_selection_sort.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="F:\COURSES\Data Structure and Algorithm\Data Structure Using CPP\Sorting Algo\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Sorting_Algo.dir/04_selection_sort.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Sorting_Algo.dir\04_selection_sort.cpp.obj -c "F:\COURSES\Data Structure and Algorithm\Data Structure Using CPP\Sorting Algo\04_selection_sort.cpp"
+CMakeFiles/Sorting_Algo.dir/06_merge_sort.cpp.obj: CMakeFiles/Sorting_Algo.dir/flags.make
+CMakeFiles/Sorting_Algo.dir/06_merge_sort.cpp.obj: CMakeFiles/Sorting_Algo.dir/includes_CXX.rsp
+CMakeFiles/Sorting_Algo.dir/06_merge_sort.cpp.obj: ../06_merge_sort.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="F:\COURSES\Data Structure and Algorithm\Data Structure Using CPP\Sorting Algo\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Sorting_Algo.dir/06_merge_sort.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Sorting_Algo.dir\06_merge_sort.cpp.obj -c "F:\COURSES\Data Structure and Algorithm\Data Structure Using CPP\Sorting Algo\06_merge_sort.cpp"
 
-CMakeFiles/Sorting_Algo.dir/04_selection_sort.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Sorting_Algo.dir/04_selection_sort.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "F:\COURSES\Data Structure and Algorithm\Data Structure Using CPP\Sorting Algo\04_selection_sort.cpp" > CMakeFiles\Sorting_Algo.dir\04_selection_sort.cpp.i
+CMakeFiles/Sorting_Algo.dir/06_merge_sort.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Sorting_Algo.dir/06_merge_sort.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "F:\COURSES\Data Structure and Algorithm\Data Structure Using CPP\Sorting Algo\06_merge_sort.cpp" > CMakeFiles\Sorting_Algo.dir\06_merge_sort.cpp.i
 
-CMakeFiles/Sorting_Algo.dir/04_selection_sort.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Sorting_Algo.dir/04_selection_sort.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "F:\COURSES\Data Structure and Algorithm\Data Structure Using CPP\Sorting Algo\04_selection_sort.cpp" -o CMakeFiles\Sorting_Algo.dir\04_selection_sort.cpp.s
+CMakeFiles/Sorting_Algo.dir/06_merge_sort.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Sorting_Algo.dir/06_merge_sort.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "F:\COURSES\Data Structure and Algorithm\Data Structure Using CPP\Sorting Algo\06_merge_sort.cpp" -o CMakeFiles\Sorting_Algo.dir\06_merge_sort.cpp.s
 
 # Object files for target Sorting_Algo
 Sorting_Algo_OBJECTS = \
-"CMakeFiles/Sorting_Algo.dir/04_selection_sort.cpp.obj"
+"CMakeFiles/Sorting_Algo.dir/06_merge_sort.cpp.obj"
 
 # External object files for target Sorting_Algo
 Sorting_Algo_EXTERNAL_OBJECTS =
 
-Sorting_Algo.exe: CMakeFiles/Sorting_Algo.dir/04_selection_sort.cpp.obj
+Sorting_Algo.exe: CMakeFiles/Sorting_Algo.dir/06_merge_sort.cpp.obj
 Sorting_Algo.exe: CMakeFiles/Sorting_Algo.dir/build.make
 Sorting_Algo.exe: CMakeFiles/Sorting_Algo.dir/linklibs.rsp
 Sorting_Algo.exe: CMakeFiles/Sorting_Algo.dir/objects1.rsp
